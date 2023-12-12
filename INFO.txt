@@ -1,0 +1,10 @@
+NEWS CMS 
+CREDIT :- Yahoo Baba
+
+Admin CMS USER :-
+USERNAME=PrasanjitRoy
+PASSWORD=12345
+
+Normal CMS USER :-
+USERNAME=DipeshGuragain
+PASSWORD=12345
